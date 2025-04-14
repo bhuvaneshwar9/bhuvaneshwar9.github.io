@@ -24,6 +24,8 @@ function App() {
     const timer = setTimeout(() => {
       updateLoad(false);
     }, 1200);
+    
+
 
     return () => clearTimeout(timer);
   }, []);
