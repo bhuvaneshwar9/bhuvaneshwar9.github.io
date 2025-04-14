@@ -1,0 +1,133 @@
+/* Contact.css */
+.contact-section {
+    position: relative !important;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+    background-image: var(--section-background-color) !important;
+    z-index: 0;
+  }
+  
+  .contact-content {
+    margin-top: 30px;
+  }
+  
+  .contact-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-card {
+    background: rgba(33, 33, 33, 0.5);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid rgba(200, 137, 230, 0.3);
+  }
+  
+  .contact-card-item {
+    display: flex;
+    margin-bottom: 25px;
+    align-items: flex-start;
+  }
+  
+  .contact-card-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  .contact-icon {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(200, 137, 230, 0.2);
+    color: var(--imp-text-color);
+    border-radius: 50%;
+    font-size: 22px;
+  }
+  
+  .contact-text h4 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+  .contact-text p {
+    font-size: 16px;
+    color: #dfdfdf;
+    margin-bottom: 0;
+  }
+  
+  .form-container {
+    background: rgba(33, 33, 33, 0.5);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(200, 137, 230, 0.3);
+  }
+  
+  .contact-section form label {
+    color: white;
+    margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  
+  .contact-section form .form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(200, 137, 230, 0.3);
+    color: white;
+    border-radius: 10px;
+    padding: 12px 15px;
+    transition: all 0.3s;
+  }
+  
+  .contact-section form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: var(--imp-text-color);
+    box-shadow: 0 0 0 3px rgba(200, 137, 230, 0.3);
+  }
+  
+  .contact-section form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .contact-submit-btn {
+    background: linear-gradient(135deg, #b721ff 0%, #8e2de2 100%);
+    border: none;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 30px;
+    box-shadow: 0 10px 20px rgba(135, 32, 158, 0.3);
+    transition: all 0.3s;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .contact-submit-btn:hover, .contact-submit-btn:focus {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 25px rgba(135, 32, 158, 0.4);
+    background: linear-gradient(135deg, #c133ff 0%, #9e42f5 100%);
+  }
+  
+  .contact-submit-btn:disabled {
+    background: linear-gradient(135deg, #a12ee3 0%, #7e27c5 100%);
+    opacity: 0.8;
+    transform: none;
+    box-shadow: 0 5px 15px rgba(135, 32, 158, 0.2);
+  }
+  
+  @media (max-width: 767px) {
+    .contact-info {
+      margin-bottom: 40px;
+    }
+  }
