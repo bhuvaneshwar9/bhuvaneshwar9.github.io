@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/css/main.d0d95bab.css",
-    "main.js": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/js/main.a9d23229.js",
-    "static/js/453.2f542bbd.chunk.js": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/js/453.2f542bbd.chunk.js",
-    "static/media/quantum.png": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/quantum.06f47e41912f031046f2.png",
-    "static/media/logo.png": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/logo.248647091763a5c9384b.png",
-    "static/media/crypto.png": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/crypto.9a465857539b609674af.png",
-    "static/media/cps.png": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/cps.9bedc6f08b1d721bc0bc.png",
-    "static/media/home-main.svg": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/avatar.jpeg": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/avatar.575c7db29536d74029db.jpeg",
-    "static/media/about.png": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/resume.pdf": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/resume.d5cb56a32734dd9325b3.pdf",
-    "static/media/home-bg.jpg": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/bhuvaneshwar9/bhuvaneshwar9.github.io/index.html",
-    "main.d0d95bab.css.map": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/css/main.d0d95bab.css.map",
-    "main.a9d23229.js.map": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/js/main.a9d23229.js.map",
-    "453.2f542bbd.chunk.js.map": "/bhuvaneshwar9/bhuvaneshwar9.github.io/static/js/453.2f542bbd.chunk.js.map"
+    "main.css": "/static/css/main.a3926032.css",
+    "main.js": "/static/js/main.250ab24c.js",
+    "static/js/453.2f542bbd.chunk.js": "/static/js/453.2f542bbd.chunk.js",
+    "static/media/quantum.png": "/static/media/quantum.06f47e41912f031046f2.png",
+    "static/media/logo.png": "/static/media/logo.248647091763a5c9384b.png",
+    "static/media/crypto.png": "/static/media/crypto.9a465857539b609674af.png",
+    "static/media/cps.png": "/static/media/cps.9bedc6f08b1d721bc0bc.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/avatar.jpeg": "/static/media/avatar.575c7db29536d74029db.jpeg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/resume.pdf": "/static/media/resume.d5cb56a32734dd9325b3.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.a3926032.css.map": "/static/css/main.a3926032.css.map",
+    "main.250ab24c.js.map": "/static/js/main.250ab24c.js.map",
+    "453.2f542bbd.chunk.js.map": "/static/js/453.2f542bbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d95bab.css",
-    "static/js/main.a9d23229.js"
+    "static/css/main.a3926032.css",
+    "static/js/main.250ab24c.js"
   ]
 }
