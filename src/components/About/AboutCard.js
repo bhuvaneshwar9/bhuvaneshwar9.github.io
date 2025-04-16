@@ -21,16 +21,13 @@ function AboutCard() {
               <ImPointRight /> Playing games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Therapist
+              <ImPointRight /> Cooking
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Believe Yourself"{" "}
-          </p>
           <footer className="blockquote-footer">Bhuvaneswar</footer>
         </blockquote>
       </Card.Body>
